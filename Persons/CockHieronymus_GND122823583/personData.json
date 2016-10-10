@@ -1,0 +1,29 @@
+{
+  "intID": 26,
+  "GND": "122823583",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Cock",
+  "GivenName": "Hieronymus",
+  "FullName": "Cock, Hieronymus",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785256504",
+    "PPN785255737",
+    "PPN785254072",
+    "PPN785253254",
+    "PPN783564023",
+    "PPN783563310",
+    "PPN783561822",
+    "PPN783560842",
+    "PPN783559933"
+  ],
+  "Links": null
+}

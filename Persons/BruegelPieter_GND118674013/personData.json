@@ -1,0 +1,26 @@
+{
+  "intID": 11,
+  "GND": "118674013",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Bruegel",
+  "GivenName": "Pieter",
+  "FullName": "Bruegel, Pieter",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785256504",
+    "PPN785255737",
+    "PPN785254072",
+    "PPN785253254",
+    "PPN783861192",
+    "PPN783860986"
+  ],
+  "Links": null
+}

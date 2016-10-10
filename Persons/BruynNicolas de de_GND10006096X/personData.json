@@ -1,0 +1,25 @@
+{
+  "intID": 20,
+  "GND": "10006096X",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Bruyn",
+  "GivenName": "Nicolas de de",
+  "FullName": "Bruyn, Nicolas de de",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN782977545",
+    "PPN782976883",
+    "PPN78296107X",
+    "PPN782889387",
+    "PPN782888984"
+  ],
+  "Links": null
+}

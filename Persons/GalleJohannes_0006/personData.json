@@ -1,0 +1,22 @@
+{
+  "intID": 6,
+  "GND": "",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Galle",
+  "GivenName": "Johannes",
+  "FullName": "Galle, Johannes",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN78357035X",
+    "PPN782979769"
+  ],
+  "Links": null
+}

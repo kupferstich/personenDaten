@@ -1,0 +1,23 @@
+{
+  "intID": 15,
+  "GND": "121095401",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Barendsz",
+  "GivenName": "Theodorus",
+  "FullName": "Barendsz, Theodorus",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785867686",
+    "PPN785867163",
+    "PPN785866671"
+  ],
+  "Links": null
+}

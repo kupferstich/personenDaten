@@ -1,0 +1,24 @@
+{
+  "intID": 25,
+  "GND": "11912081X",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Galle",
+  "GivenName": "Theodor",
+  "FullName": "Galle, Theodor",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN783578431",
+    "PPN783556845",
+    "PPN783049005",
+    "PPN782980104"
+  ],
+  "Links": null
+}

@@ -1,0 +1,22 @@
+{
+  "intID": 44,
+  "GND": "118604775",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Sadeler",
+  "GivenName": "Raphael",
+  "FullName": "Sadeler, Raphael",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785269916",
+    "PPN785269266"
+  ],
+  "Links": null
+}

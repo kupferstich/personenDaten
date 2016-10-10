@@ -1,0 +1,33 @@
+{
+  "intID": 5,
+  "GND": "100811957",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Galle",
+  "GivenName": "Philippe",
+  "FullName": "Galle, Philippe",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785256504",
+    "PPN785255737",
+    "PPN785254072",
+    "PPN785253254",
+    "PPN78357035X",
+    "PPN782892043",
+    "PPN78289190X",
+    "PPN782891802",
+    "PPN782891640",
+    "PPN78289139X",
+    "PPN782891063",
+    "PPN782890709",
+    "PPN78289027X"
+  ],
+  "Links": null
+}

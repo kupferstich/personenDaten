@@ -1,0 +1,27 @@
+{
+  "intID": 52,
+  "GND": "124660584",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Schonaeus",
+  "GivenName": "Cornelis",
+  "FullName": "Schonaeus, Cornelis",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN786042540",
+    "PPN786042109",
+    "PPN786041447",
+    "PPN786040793",
+    "PPN786040319",
+    "PPN786039477",
+    "PPN786038322"
+  ],
+  "Links": null
+}

@@ -1,0 +1,22 @@
+{
+  "intID": 24,
+  "GND": "119669692",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Favolius",
+  "GivenName": "Hugo",
+  "FullName": "Favolius, Hugo",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN782979769",
+    "PPN782978088"
+  ],
+  "Links": null
+}

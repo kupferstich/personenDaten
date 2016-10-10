@@ -1,0 +1,24 @@
+{
+  "intID": 18,
+  "GND": "132316307",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Francken",
+  "GivenName": "Ambrosius",
+  "FullName": "Francken, Ambrosius",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN786312203",
+    "PPN786311673",
+    "PPN786311029",
+    "PPN786310448"
+  ],
+  "Links": null
+}

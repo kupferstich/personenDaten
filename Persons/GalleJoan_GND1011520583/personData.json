@@ -1,0 +1,28 @@
+{
+  "intID": 29,
+  "GND": "1011520583",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Galle",
+  "GivenName": "Joan",
+  "FullName": "Galle, Joan",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN783579373",
+    "PPN783578857",
+    "PPN783578431",
+    "PPN783571631",
+    "PPN783571402",
+    "PPN783571089",
+    "PPN783570686",
+    "PPN783570683"
+  ],
+  "Links": null
+}

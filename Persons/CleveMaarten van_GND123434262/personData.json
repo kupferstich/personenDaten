@@ -1,0 +1,22 @@
+{
+  "intID": 13,
+  "GND": "123434262",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Cleve",
+  "GivenName": "Maarten van",
+  "FullName": "Cleve, Maarten van",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785808116",
+    "PPN785807357"
+  ],
+  "Links": null
+}

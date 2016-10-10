@@ -1,0 +1,24 @@
+{
+  "intID": 27,
+  "GND": "121461491",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Muller",
+  "GivenName": "Harman",
+  "FullName": "Muller, Harman",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785869433",
+    "PPN783564023",
+    "PPN783563310",
+    "PPN783561822"
+  ],
+  "Links": null
+}

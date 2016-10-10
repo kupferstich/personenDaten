@@ -1,0 +1,21 @@
+{
+  "intID": 51,
+  "GND": "121463486",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Muller",
+  "GivenName": "Johannes",
+  "FullName": "Muller, Johannes",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN785869433"
+  ],
+  "Links": null
+}

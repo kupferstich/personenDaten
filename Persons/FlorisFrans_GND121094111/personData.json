@@ -1,0 +1,21 @@
+{
+  "intID": 16,
+  "GND": "121094111",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Floris",
+  "GivenName": "Frans",
+  "FullName": "Floris, Frans",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN786056886"
+  ],
+  "Links": null
+}

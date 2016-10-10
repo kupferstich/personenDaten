@@ -1,0 +1,21 @@
+{
+  "intID": 30,
+  "GND": "118701932",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Parma",
+  "GivenName": "Alexander",
+  "FullName": "Parma, Alexander",
+  "YearBirth": 1545,
+  "YearDeath": 1592,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN783583753"
+  ],
+  "Links": null
+}

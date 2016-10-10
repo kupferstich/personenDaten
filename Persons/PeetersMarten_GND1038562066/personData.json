@@ -1,0 +1,28 @@
+{
+  "intID": 22,
+  "GND": "1038562066",
+  "personID": "",
+  "idents": null,
+  "masterID": 0,
+  "Type": "personal",
+  "FamilyName": "Peeters",
+  "GivenName": "Marten",
+  "FullName": "Peeters, Marten",
+  "YearBirth": 0,
+  "YearDeath": 0,
+  "CityBirth": "",
+  "CityDeath": "",
+  "Text": "",
+  "ProfilePics": null,
+  "Pictures": [
+    "PPN782892043",
+    "PPN78289190X",
+    "PPN782891802",
+    "PPN782891640",
+    "PPN78289139X",
+    "PPN782891063",
+    "PPN782890709",
+    "PPN78289027X"
+  ],
+  "Links": null
+}
