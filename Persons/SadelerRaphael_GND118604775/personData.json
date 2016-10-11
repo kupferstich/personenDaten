@@ -13,10 +13,23 @@
   "CityBirth": "",
   "CityDeath": "",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {
+    "Gulden_Cabinet_-_Raphael_Sadelar_p_465.jpg": {
+      "Value": "Gulden_Cabinet_-_Raphael_Sadelar_p_465.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Joannes Meyssens [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AGulden_Cabinet_-_Raphael_Sadelar_p_465.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "Pictures": [
     "PPN785269916",
     "PPN785269266"
   ],
-  "Links": null
+  "Links": [
+    {
+      "Url": "https://en.wikipedia.org/w/index.php?title=Sadeler_family\u0026uselang=de",
+      "Text": "",
+      "Title": "Wikipedia über die Familie Sadeler"
+    }
+  ]
 }

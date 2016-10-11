@@ -13,7 +13,20 @@
   "CityBirth": "Antwerpen",
   "CityDeath": "Antwerpen",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {
+    "Aegidius_Sadeler_II,_Maerten_de_Vos_-_Portrait_of_Maerten_de_Vos.jpg": {
+      "Value": "Aegidius_Sadeler_II,_Maerten_de_Vos_-_Portrait_of_Maerten_de_Vos.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Aegidius Sadeler [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AAegidius_Sadeler_II%2C_Maerten_de_Vos_-_Portrait_of_Maerten_de_Vos.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    },
+    "Giovanni_Battista_Cecchi_-_Portrait_of_Maarten_de_Vos.jpg": {
+      "Value": "Giovanni_Battista_Cecchi_-_Portrait_of_Maarten_de_Vos.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "von Giovanni Battista Cecchi [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AGiovanni_Battista_Cecchi_-_Portrait_of_Maarten_de_Vos.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "Pictures": [
     "PPN785981101",
     "PPN78598092X",

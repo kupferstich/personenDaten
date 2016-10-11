@@ -8,12 +8,19 @@
   "FamilyName": "Sadeler",
   "GivenName": "Aegidius",
   "FullName": "Sadeler, Aegidius",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1570,
+  "YearDeath": 1629,
+  "CityBirth": "Antwerpen",
+  "CityDeath": "Prag",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {
+    "Egidius_Sadeler_-_Kupferstecher.jpg": {
+      "Value": "Egidius_Sadeler_-_Kupferstecher.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Pieter de Jode der Jüngere (1606–nach 1674) [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AEgidius_Sadeler_-_Kupferstecher.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "Pictures": [
     "PPN783733151",
     "PPN783732910",
@@ -22,5 +29,11 @@
     "PPN783731965",
     "PPN783674244"
   ],
-  "Links": null
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Egidius_Sadeler",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ]
 }

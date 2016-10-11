@@ -8,12 +8,19 @@
   "FamilyName": "Goltzius",
   "GivenName": "Hendrick",
   "FullName": "Goltzius, Hendrick",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1558,
+  "YearDeath": 1616,
+  "CityBirth": "Bracht",
+  "CityDeath": "Venlo",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {
+    "Hendrick_Goltzius_selfportrait_1593-94.jpg": {
+      "Value": "Hendrick_Goltzius_selfportrait_1593-94.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Hendrick Goltzius [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AHendrick_Goltzius_selfportrait_1593-94.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "Pictures": [
     "PPN786187956",
     "PPN786187646",
@@ -56,5 +63,11 @@
     "PPN785797831",
     "PPN785267921"
   ],
-  "Links": null
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Hendrick_Goltzius",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ]
 }

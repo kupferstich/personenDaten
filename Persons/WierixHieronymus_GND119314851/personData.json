@@ -8,12 +8,12 @@
   "FamilyName": "Wierix",
   "GivenName": "Hieronymus",
   "FullName": "Wierix, Hieronymus",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1553,
+  "YearDeath": 1619,
+  "CityBirth": "Antwerpen",
+  "CityDeath": "Antwerpen",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {},
   "Pictures": [
     "PPN786312203",
     "PPN786311673",
@@ -33,5 +33,11 @@
     "PPN78358525X",
     "PPN78358492X"
   ],
-  "Links": null
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Hieronymus_Wierix",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ]
 }

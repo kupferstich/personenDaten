@@ -8,12 +8,19 @@
   "FamilyName": "Heemskerk",
   "GivenName": "Maarteen van",
   "FullName": "Heemskerk, Maarteen van",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1498,
+  "YearDeath": 1574,
+  "CityBirth": "Heemskerk",
+  "CityDeath": "Harlem",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {
+    "Heemskerck-zelfp-detail.jpg": {
+      "Value": "Heemskerck-zelfp-detail.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Maarten van Heemskerck [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AHeemskerck-zelfp-detail.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "Pictures": [
     "PPN783564023",
     "PPN783563310",
@@ -32,5 +39,11 @@
     "PPN782890709",
     "PPN78289027X"
   ],
-  "Links": null
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Maarten_van_Heemskerck",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ]
 }

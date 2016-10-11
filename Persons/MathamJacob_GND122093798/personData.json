@@ -8,12 +8,19 @@
   "FamilyName": "Matham",
   "GivenName": "Jacob",
   "FullName": "Matham, Jacob",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1571,
+  "YearDeath": 1631,
+  "CityBirth": "Haarlem",
+  "CityDeath": "Haarlem",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {
+    "Gulden_Cabinet_-Jacob_Matham_p_475.jpg": {
+      "Value": "Gulden_Cabinet_-Jacob_Matham_p_475.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Joannes Meyssens [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AGulden_Cabinet_-Jacob_Matham_p_475.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "Pictures": [
     "PPN786187956",
     "PPN786187646",
@@ -36,5 +43,11 @@
     "PPN785802738",
     "PPN785797831"
   ],
-  "Links": null
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Jakob_Matham?uselang=de",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ]
 }
