@@ -8,10 +8,10 @@
   "FamilyName": "Sadeler",
   "GivenName": "Raphael",
   "FullName": "Sadeler, Raphael",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1560,
+  "YearDeath": 1628,
+  "CityBirth": "Antwerpen",
+  "CityDeath": "Venedig (?)",
   "Text": "",
   "ProfilePics": {
     "Gulden_Cabinet_-_Raphael_Sadelar_p_465.jpg": {
@@ -21,15 +21,19 @@
       "Attribution": "Joannes Meyssens [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AGulden_Cabinet_-_Raphael_Sadelar_p_465.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
     }
   },
+  "PostImage": "Gulden_Cabinet_-_Raphael_Sadelar_p_465.jpg",
   "Pictures": [
     "PPN785269916",
     "PPN785269266"
   ],
+  "Status": "zur Überarbeitung",
   "Links": [
     {
       "Url": "https://en.wikipedia.org/w/index.php?title=Sadeler_family\u0026uselang=de",
       "Text": "",
       "Title": "Wikipedia über die Familie Sadeler"
     }
-  ]
+  ],
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

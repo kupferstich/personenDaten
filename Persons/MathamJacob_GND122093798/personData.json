@@ -21,6 +21,7 @@
       "Attribution": "Joannes Meyssens [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AGulden_Cabinet_-Jacob_Matham_p_475.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
     }
   },
+  "PostImage": "Gulden_Cabinet_-Jacob_Matham_p_475.jpg",
   "Pictures": [
     "PPN786187956",
     "PPN786187646",
@@ -43,11 +44,14 @@
     "PPN785802738",
     "PPN785797831"
   ],
+  "Status": "",
   "Links": [
     {
       "Url": "https://de.wikipedia.org/wiki/Jakob_Matham?uselang=de",
       "Text": "",
       "Title": "Wikipedia"
     }
-  ]
+  ],
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

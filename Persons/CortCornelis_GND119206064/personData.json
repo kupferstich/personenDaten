@@ -8,17 +8,21 @@
   "FamilyName": "Cort",
   "GivenName": "Cornelis",
   "FullName": "Cort, Cornelis",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
-  "Text": "",
-  "ProfilePics": null,
+  "YearBirth": 1533,
+  "YearDeath": 1578,
+  "CityBirth": "Holland",
+  "CityDeath": "Rom",
+  "Text": "Cornelis Cort war ein niederländischer Kupferstecher. Er arbeitete für den Verlag des Antwerpener Kupferstechers Hieronymus Cock, seine Stiche erschienen dort größtenteils noch ohne seinen Namen. Um 1566 ging er nach Venedig, wo ihn Tizian beherbergte, für den er verschiedene Werke in Kupfer stach. Einige Zeit später ließ sich Cort in Rom nieder, wo er erfolgreich arbeitete und eine Schule gründete. Zu seinen Schülern zählte auch Agostino Carracci.\n\nMit der Technik der sogenannten „schwellenden Linie“, die in parallelen Zügen die Wirkung von Licht und Schatten erreichte, erweiterte er die bislang gewohnten Schraffuren um ein weiteres Ausdrucksmittel. Die Erfindung dieser Technik wird Cornelis Cort zugeschrieben, ebenso die Einführung größerer Formate für Kupferstiche.",
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN786056886",
     "PPN783860781",
     "PPN783560842",
     "PPN783559933"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": null,
+  "BlogDate": "2016-11-03T20:40:45.101Z",
+  "PublishDate": "2016-11-03T20:40:45.101Z"
 }

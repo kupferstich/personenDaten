@@ -8,12 +8,13 @@
   "FamilyName": "Bril",
   "GivenName": "Paul",
   "FullName": "Bril, Paul",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
-  "Text": "",
-  "ProfilePics": null,
+  "YearBirth": 1553,
+  "YearDeath": 1626,
+  "CityBirth": "Breda",
+  "CityDeath": "Rom",
+  "Text": "Paul Bril war ein niederländischer Maler. Er war Schüler des Malers Damiaens Wortelmans. Er zog 1582 zu seinem Bruder Mathijs Bril nach Rom und ließ sich von ihm weiter unterrichten. Paul Bril malte Landschaften in Fresko und Öl und bezeichnet einen bedeutenden Fortschritt in dieser Kunst, indem er mehr als frühere Maler auf eine einheitliche Beleuchtung hinstrebte. Seine Behandlung war anfangs etwas trocken, wurde aber durch den Einfluss der Italiener breiter. Doch behielt er immer das kältere, bläulichgrünliche Kolorit und die Durchführung der niederländischen Maler bei. Er malte vor allem religiöse Darstellungen, Landschaften, Marinen, Schlachten und Allegorien. Auch radierte er verschiedene Blätter. Seine Werke finden sich in allen Galerien der Welt.\n\nViele Maler wurden in Rom von Paul Bril beeinflusst, so Adam Elsheimer, Cornelis van Poelenburgh und Bartholomeus Breenbergh. Er arbeitete mit Johannes Rottenhammer zusammen, der in Brils Landschaften die Figuren hineinkomponierte bzw. figürliche Szenen malte, denen Bril die Landschaften hinzufügte.",
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN783733151",
     "PPN783732910",
@@ -22,5 +23,8 @@
     "PPN783731965",
     "PPN783674244"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": null,
+  "BlogDate": "2016-11-03T20:43:33.59Z",
+  "PublishDate": "2016-11-03T20:43:33.59Z"
 }

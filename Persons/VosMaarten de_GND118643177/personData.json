@@ -27,6 +27,7 @@
       "Attribution": "von Giovanni Battista Cecchi [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AGiovanni_Battista_Cecchi_-_Portrait_of_Maarten_de_Vos.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
     }
   },
+  "PostImage": "Aegidius_Sadeler_II,_Maerten_de_Vos_-_Portrait_of_Maerten_de_Vos.jpg",
   "Pictures": [
     "PPN785981101",
     "PPN78598092X",
@@ -96,11 +97,14 @@
     "PPN782888984",
     "PPN782360696"
   ],
+  "Status": "fertig",
   "Links": [
     {
       "Url": "https://de.wikipedia.org/wiki/Marten_de_Vos",
       "Text": "",
       "Title": "Wikipedia"
     }
-  ]
+  ],
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

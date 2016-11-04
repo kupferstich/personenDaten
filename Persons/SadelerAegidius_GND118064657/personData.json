@@ -21,6 +21,7 @@
       "Attribution": "Pieter de Jode der Jüngere (1606–nach 1674) [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AEgidius_Sadeler_-_Kupferstecher.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
     }
   },
+  "PostImage": "Egidius_Sadeler_-_Kupferstecher.jpg",
   "Pictures": [
     "PPN783733151",
     "PPN783732910",
@@ -29,11 +30,14 @@
     "PPN783731965",
     "PPN783674244"
   ],
+  "Status": "",
   "Links": [
     {
       "Url": "https://de.wikipedia.org/wiki/Egidius_Sadeler",
       "Text": "",
       "Title": "Wikipedia"
     }
-  ]
+  ],
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

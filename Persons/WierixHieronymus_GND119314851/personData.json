@@ -12,8 +12,9 @@
   "YearDeath": 1619,
   "CityBirth": "Antwerpen",
   "CityDeath": "Antwerpen",
-  "Text": "",
+  "Text": "Hieronymus Wierix auch Jeronymus war ein flämischer Kupferstecher, Grafiker und Zeichner.\n\nSeine Brüder waren Johannes Wierix (auch Jan genannt) und Antoine Wierix, sie waren ebenfalls als Kupferstecher tätig. Johannes und Hieronymus fertigten Buchillustrationen für Christopher Plantin. Sie waren Mitglieder der Lukasgilde. Seine Tochter Cecila heiratete den Kupferstecher Jean-Baptiste Barbé. Unter seinen Schülern waren Abraham van Merlen, Jan Baptist van den Sande der Ältere, und Jacob de Weert.\n\nKupferstiche von ihm befinden sich unter anderem in der Grunwald-Center-Sammlung des Armand Hammer Museum of Art und im Kupferstichkabinett der Kunstsammlungen der Veste Coburg.",
   "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN786312203",
     "PPN786311673",
@@ -33,11 +34,14 @@
     "PPN78358525X",
     "PPN78358492X"
   ],
+  "Status": "fertig",
   "Links": [
     {
       "Url": "https://de.wikipedia.org/wiki/Hieronymus_Wierix",
       "Text": "",
       "Title": "Wikipedia"
     }
-  ]
+  ],
+  "BlogDate": "2016-11-03T20:31:09.763Z",
+  "PublishDate": "2016-11-03T20:31:09.763Z"
 }

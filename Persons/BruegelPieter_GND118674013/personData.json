@@ -8,12 +8,13 @@
   "FamilyName": "Bruegel",
   "GivenName": "Pieter",
   "FullName": "Bruegel, Pieter",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
-  "Text": "",
-  "ProfilePics": null,
+  "YearBirth": 1525,
+  "YearDeath": 1569,
+  "CityBirth": "Breda",
+  "CityDeath": "Brüssel",
+  "Text": "Pieter Bruegel der Ältere, genannt de Drol „der Drollige“ oder „Bauernbruegel“, war ein Maler der Niederländischen Renaissance. Er ist landläufig bekannt für seine Darstellungen des bäuerlichen Lebens im Herzogtum Brabant (Niederlande und Flandern) des 16. Jahrhunderts.",
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN785256504",
     "PPN785255737",
@@ -22,5 +23,8 @@
     "PPN783861192",
     "PPN783860986"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": null,
+  "BlogDate": "2016-11-03T21:11:27.988Z",
+  "PublishDate": "2016-11-03T21:11:27.988Z"
 }

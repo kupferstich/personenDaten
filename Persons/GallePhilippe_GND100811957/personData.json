@@ -8,12 +8,13 @@
   "FamilyName": "Galle",
   "GivenName": "Philippe",
   "FullName": "Galle, Philippe",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
-  "Text": "",
-  "ProfilePics": null,
+  "YearBirth": 1537,
+  "YearDeath": 1612,
+  "CityBirth": "Haarlem",
+  "CityDeath": "Antwerpen",
+  "Text": "Philipp Galle war ein niederländischer Zeichner und Kupferstecher des Manierismus. Daneben war er als Kupferstichhändler, Kupferstichverleger und Schriftsteller tätig.\n\nPhilipp Galle war Mitglied einer niederländischen Kupferstecherfamilie. Er begründete die bedeutendste Werkstatt der Antwerpener Kupfersticherzeugung im späten 16. und im 17. Jahrhundert, die von seinen Söhnen Cornelius und Theodor Galle weitergeführt wurde. Nach Vorlagen von Pieter Brueghel (z. B. 1558 Der Alchemist), Maerten van Heemskerck (z. B. Die Zerstörung des Tempels Salomons), M. de Voin, Jan van der Straet und Frans Floris (z. B. Lot und seine Töchter) schuf Galle einige seiner schönsten Kupferstiche.",
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN785256504",
     "PPN785255737",
@@ -29,5 +30,14 @@
     "PPN782890709",
     "PPN78289027X"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Philipp_Galle",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ],
+  "BlogDate": "2016-11-03T19:55:29.488Z",
+  "PublishDate": "2016-11-03T19:55:29.488Z"
 }

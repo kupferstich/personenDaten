@@ -21,6 +21,7 @@
       "Attribution": "Maarten van Heemskerck [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3AHeemskerck-zelfp-detail.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
     }
   },
+  "PostImage": "Heemskerck-zelfp-detail.jpg",
   "Pictures": [
     "PPN783564023",
     "PPN783563310",
@@ -39,11 +40,14 @@
     "PPN782890709",
     "PPN78289027X"
   ],
+  "Status": "",
   "Links": [
     {
       "Url": "https://de.wikipedia.org/wiki/Maarten_van_Heemskerck",
       "Text": "",
       "Title": "Wikipedia"
     }
-  ]
+  ],
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

@@ -8,12 +8,12 @@
   "FamilyName": "Sadeler",
   "GivenName": "Johann",
   "FullName": "Sadeler, Johann",
-  "YearBirth": 0,
-  "YearDeath": 0,
+  "YearBirth": 1550,
+  "YearDeath": 1600,
   "CityBirth": "",
   "CityDeath": "",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {},
   "Pictures": [
     "PPN786028874",
     "PPN785867686",
@@ -31,5 +31,12 @@
     "PPN783579942",
     "PPN782360696"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": [
+    {
+      "Url": "http://personen.digitale-sammlungen.de/pnd/bsb00000274_00132-03.html",
+      "Text": "",
+      "Title": "Digitale Sammlungen"
+    }
+  ]
 }

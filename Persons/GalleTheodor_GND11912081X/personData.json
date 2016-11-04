@@ -8,17 +8,21 @@
   "FamilyName": "Galle",
   "GivenName": "Theodor",
   "FullName": "Galle, Theodor",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
-  "Text": "",
-  "ProfilePics": null,
+  "YearBirth": 1571,
+  "YearDeath": 1633,
+  "CityBirth": "Antwerpen",
+  "CityDeath": "Antwerpen",
+  "Text": "Theodor Galle war ein niederländischer Kupferstecher des Frühbarock. Der Sohn von Philipp Galle und Bruder von Cornelius Galle d. Ä. ging nach einer Lehre bei seinem Vater nach Rom, wo er antike Denkmäler studierte. Die Ergebnisse veröffentlichte er unter dem Titel „Imagines ex antiquis marmoribus, numismatibus et gemmis expressae“. Später ging er zurück nach Antwerpen, um dort einen Kupferstichhandel zu betreiben. Neben Kopien von Peter Paul Rubens fertigte er auch eigene Entwürfe an, die er unter dem Titel „Speculum illustrium virginum“ und „Marienleben“ zusammenstellte.",
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN783578431",
     "PPN783556845",
     "PPN783049005",
     "PPN782980104"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": null,
+  "BlogDate": "2016-11-03T20:45:36.131Z",
+  "PublishDate": "2016-11-03T20:45:36.131Z"
 }
