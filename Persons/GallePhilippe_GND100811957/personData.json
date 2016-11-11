@@ -13,7 +13,14 @@
   "CityBirth": "Haarlem",
   "CityDeath": "Antwerpen",
   "Text": "Philipp Galle war ein niederländischer Zeichner und Kupferstecher des Manierismus. Daneben war er als Kupferstichhändler, Kupferstichverleger und Schriftsteller tätig.\n\nPhilipp Galle war Mitglied einer niederländischen Kupferstecherfamilie. Er begründete die bedeutendste Werkstatt der Antwerpener Kupfersticherzeugung im späten 16. und im 17. Jahrhundert, die von seinen Söhnen Cornelius und Theodor Galle weitergeführt wurde. Nach Vorlagen von Pieter Brueghel (z. B. 1558 Der Alchemist), Maerten van Heemskerck (z. B. Die Zerstörung des Tempels Salomons), M. de Voin, Jan van der Straet und Frans Floris (z. B. Lot und seine Töchter) schuf Galle einige seiner schönsten Kupferstiche.",
-  "ProfilePics": {},
+  "ProfilePics": {
+    "Portrait_of_Philips_Galle_002.jpg": {
+      "Value": "Portrait_of_Philips_Galle_002.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": "Hendrik Goltzius [Public domain], \u003ca href=\"https://commons.wikimedia.org/wiki/File%3APortrait_of_Philips_Galle_002.jpg\"\u003evia Wikimedia Commons\u003c/a\u003e"
+    }
+  },
   "PostImage": "",
   "Pictures": [
     "PPN785256504",

@@ -10,10 +10,11 @@
   "FullName": "Peeters, Marten",
   "YearBirth": 1500,
   "YearDeath": 1565,
-  "CityBirth": "",
+  "CityBirth": "Geel",
   "CityDeath": "",
   "Text": "",
   "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN782892043",
     "PPN78289190X",
@@ -24,5 +25,14 @@
     "PPN782890709",
     "PPN78289027X"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": [
+    {
+      "Url": "http://www.britishmuseum.org/research/search_the_collection_database/term_details.aspx?bioId=107825",
+      "Text": "",
+      "Title": "British Muesum"
+    }
+  ],
+  "BlogDate": "0001-01-01T00:00:00Z",
+  "PublishDate": "0001-01-01T00:00:00Z"
 }

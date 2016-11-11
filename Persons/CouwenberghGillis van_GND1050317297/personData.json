@@ -8,14 +8,24 @@
   "FamilyName": "Couwenbergh",
   "GivenName": "Gillis van",
   "FullName": "Couwenbergh, Gillis van",
-  "YearBirth": 0,
-  "YearDeath": 0,
-  "CityBirth": "",
-  "CityDeath": "",
+  "YearBirth": 1604,
+  "YearDeath": 1667,
+  "CityBirth": "Delft",
+  "CityDeath": "Köln",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN783844042"
   ],
-  "Links": null
+  "Status": "zur Überarbeitung",
+  "Links": [
+    {
+      "Url": "https://de.wikipedia.org/wiki/Christiaen_Gillisz._van_Couwenbergh",
+      "Text": "",
+      "Title": "Wikipedia"
+    }
+  ],
+  "BlogDate": "2016-11-11T14:17:02.873Z",
+  "PublishDate": "2016-11-11T14:17:02.873Z"
 }

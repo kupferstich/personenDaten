@@ -12,7 +12,7 @@
   "YearDeath": 1574,
   "CityBirth": "Heemskerk",
   "CityDeath": "Harlem",
-  "Text": "",
+  "Text": "Maarteen van Heemskerk war ein niederländischer Maler, Grafikentwerfer und Zeichner der Spätrenaissance (Quelle Wikipedia).",
   "ProfilePics": {
     "Heemskerck-zelfp-detail.jpg": {
       "Value": "Heemskerck-zelfp-detail.jpg",
@@ -40,14 +40,24 @@
     "PPN782890709",
     "PPN78289027X"
   ],
-  "Status": "",
+  "Status": "fertig",
   "Links": [
     {
       "Url": "https://de.wikipedia.org/wiki/Maarten_van_Heemskerck",
       "Text": "",
       "Title": "Wikipedia"
+    },
+    {
+      "Url": "http://www.nga.gov/content/ngaweb/Collection/artist-info.2563.html",
+      "Text": "",
+      "Title": "National Gallery of Art"
+    },
+    {
+      "Url": "http://www.artcyclopedia.com/artists/heemskerck_maerten_van.html",
+      "Text": "",
+      "Title": "Artcyclopedia"
     }
   ],
-  "BlogDate": "0001-01-01T00:00:00Z",
-  "PublishDate": "0001-01-01T00:00:00Z"
+  "BlogDate": "2016-11-10T17:46:05.495Z",
+  "PublishDate": "2016-11-10T17:46:05.495Z"
 }
