@@ -13,7 +13,8 @@
   "CityBirth": "",
   "CityDeath": "",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN786187956",
     "PPN786187646",
@@ -47,5 +48,8 @@
     "PPN785797831",
     "PPN785267921"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": null,
+  "BlogDate": "2016-12-01T20:38:17.259Z",
+  "PublishDate": "2016-12-01T20:38:17.259Z"
 }

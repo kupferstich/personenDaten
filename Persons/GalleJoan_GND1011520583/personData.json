@@ -8,12 +8,13 @@
   "FamilyName": "Galle",
   "GivenName": "Joan",
   "FullName": "Galle, Joan",
-  "YearBirth": 0,
-  "YearDeath": 0,
+  "YearBirth": 1600,
+  "YearDeath": 1676,
   "CityBirth": "",
   "CityDeath": "",
   "Text": "",
-  "ProfilePics": null,
+  "ProfilePics": {},
+  "PostImage": "",
   "Pictures": [
     "PPN783579373",
     "PPN783578857",
@@ -24,5 +25,8 @@
     "PPN783570686",
     "PPN783570683"
   ],
-  "Links": null
+  "Status": "fertig",
+  "Links": null,
+  "BlogDate": "2016-12-01T20:35:00.777Z",
+  "PublishDate": "2016-12-01T20:35:00.777Z"
 }
